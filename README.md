@@ -1,0 +1,2 @@
+# openshiftmavendemo
+openshift maven demo
